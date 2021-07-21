@@ -20,6 +20,7 @@ public class ColorController : MonoBehaviour
     // Called when the ball collides with the wall
     private void OnCollisionEnter(Collision col)
     {
+        print("Ãæµ¹");
         // Checks if the player ball has collided with the wall.
         if (col.gameObject.name == "player-ball")
         {
