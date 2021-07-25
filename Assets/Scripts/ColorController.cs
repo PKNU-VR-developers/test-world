@@ -20,11 +20,11 @@ public class ColorController : MonoBehaviour
     // Called when the ball collides with the wall
     private void OnCollisionEnter(Collision col)
     {
-        print("Ãæµ¹");
+        print("text printing....");
         // Checks if the player ball has collided with the wall.
         if (col.gameObject.name == "player-ball")
         {
-            displayText.text = "holly....be careful!!";
+            displayText.text = "ouch!!";
             rend.sharedMaterial = wallMaterial[0];
         }
     }
@@ -34,7 +34,7 @@ public class ColorController : MonoBehaviour
         if (col.gameObject.name == "player-ball")
         {
             rend.sharedMaterial = wallMaterial[1];
-            displayText.text = "going going alone way!";
+            displayText.text = "now rolling!";
         }
     }
 }
