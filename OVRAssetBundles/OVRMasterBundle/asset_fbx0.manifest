@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2542265987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97ddbbe76c6197a0cbcd28e052248575
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 317920cb0e26af913dfcf6c0b10ef1c2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_RUN00_R.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT01.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT00.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_F.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_L.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_JUMP00.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_B.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_RUN00_F.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_RUN00_L.fbx
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_R.fbx
+Dependencies:
+- D:/test_world/test world/test-world/OVRAssetBundles/OVRMasterBundle/asset_mat0

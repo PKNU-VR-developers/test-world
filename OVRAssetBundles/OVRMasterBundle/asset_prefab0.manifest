@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1700240496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db1776ad2b949c3b3f0317b6b14ba177
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9c18dd05364ae3a7519ba3c1748832b0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9001bcbd91e76437cb0f52f12764f2f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e658bfc1e524494b9e54a1c92d8c1e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/unitychan.prefab
+Dependencies:
+- D:/test_world/test world/test-world/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- D:/test_world/test world/test-world/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- D:/test_world/test world/test-world/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/test_world/test world/test-world/OVRAssetBundles/OVRMasterBundle/asset_mat0

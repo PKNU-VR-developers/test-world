@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 827326620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a86f41aa6b6923389088e63e5ff8fe6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 618316c8167c7e3ed46bc262a34af1a0
+HashAppended: 0
+ClassTypes:
+- Class: 319
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/face only mask.mask
+Dependencies: []
